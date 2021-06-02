@@ -1,0 +1,7 @@
+{
+  "name": "veramo-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
