@@ -24,8 +24,15 @@
     "@capacitor/haptics": "1.0.0",
     "@capacitor/keyboard": "1.0.0",
     "@ionic/angular": "^5.5.2",
+    "@veramo/core": "^1.2.0",
+    "@veramo/credential-w3c": "^1.2.0",
+    "@veramo/did-jwt": "^1.2.0",
+    "@veramo/did-resolver": "^1.2.0",
+    "@veramo/message-handler": "^1.2.0",
+    "ethr-did-resolver": "^4.3.3",
     "rxjs": "~6.6.0",
     "tslib": "^2.0.0",
+    "web-did-resolver": "^2.0.4",
     "zone.js": "~0.11.4"
   },
   "devDependencies": {
