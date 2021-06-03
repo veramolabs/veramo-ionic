@@ -9,7 +9,8 @@
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",
-    "e2e": "ng e2e"
+    "e2e": "ng e2e",
+    "upgrade-veramo": "yarn add @veramo/core@next @veramo/credential-w3c@next @veramo/did-jwt@next @veramo/did-resolver@next @veramo/message-handler@next"
   },
   "private": true,
   "dependencies": {
@@ -25,11 +26,11 @@
     "@capacitor/ios": "3.0.0",
     "@capacitor/keyboard": "1.0.0",
     "@ionic/angular": "^5.5.2",
-    "@veramo/core": "^1.2.0",
-    "@veramo/credential-w3c": "^1.2.0",
-    "@veramo/did-jwt": "^1.2.0",
-    "@veramo/did-resolver": "^1.2.0",
-    "@veramo/message-handler": "^1.2.0",
+    "@veramo/core": "^1.2.3-next.22",
+    "@veramo/credential-w3c": "^1.2.3-next.22",
+    "@veramo/did-jwt": "^1.2.3-next.22",
+    "@veramo/did-resolver": "^1.2.3-next.22",
+    "@veramo/message-handler": "^1.2.3-next.22",
     "ethr-did-resolver": "^4.3.3",
     "rxjs": "~6.6.0",
     "tslib": "^2.0.0",
